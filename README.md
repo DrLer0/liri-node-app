@@ -23,7 +23,10 @@
 5. If `Artist` `Song` or `Movie` are missing, then a defualt value will be used to run the respective commands.
 
 ### Screenshots
-
+![Alt text](/../screenshots/screenshots/concert-this.png?raw=true "concert-this Of Monsters and Men")
+![Alt text](/../screenshots/screenshots/movie-this.png?raw=true "movie-this Parasite")
+![Alt text](/../screenshots/screenshots/spotify-this-song.png?raw=true "spotify-this-song Here Comes the Sun")
+![Alt text](/../screenshots/screenshots/do-what-it-says.png?raw=true "do-what-it-says")
 
 ### Link
 https://github.com/DrLer0/liri-node-app
